@@ -1,0 +1,18 @@
+# Environment & Cache
+.venv/
+__pycache__/
+*.pyc
+
+# Model weights & large media
+*.pt
+*.mp4
+*.avi
+*.db
+
+# Data & Captures
+data_dat/
+data_Minh/
+dataset/
+runs/
+thietkexaydungphanmem/smp-main/data/*.db
+thietkexaydungphanmem/smp-main/data/captures/*.jpg
